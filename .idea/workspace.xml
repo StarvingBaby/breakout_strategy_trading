@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4c203b-cbce-4ea0-a627-cf7797df9212" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_quarto.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/search.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/bootstrap/bootstrap-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/bootstrap/bootstrap-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/bootstrap/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/clipboard/clipboard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-html/anchor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-html/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-html/quarto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-html/tabsets/tabsets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-html/tippy.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-html/tippy.umd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-nav/headroom.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-nav/quarto-nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-search/autocomplete.umd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-search/fuse.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/site_libs/quarto-search/quarto-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.qmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.qmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.qmd" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.qmd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Duke/Study/Fintech533/pairs_trading_fintech533",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Duke/Study/Fintech533/pairs_trading_fintech533&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pairs_trading_fintech533" />
