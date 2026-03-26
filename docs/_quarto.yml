@@ -1,8 +1,8 @@
-gtproject:
+project:
   type: website
 
 website:
-  title: "pair_trading"
+  title: "pairs_trading"
   navbar:
     left:
       - href: index.qmd
