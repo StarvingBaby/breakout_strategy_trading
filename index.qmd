@@ -116,7 +116,11 @@ trades = pd.read_csv("outputs/trade_blotter.csv")
 trades
 ```
 
-[Download Trade Blotter CSV](outputs/trade_blotter.csv)
+Download files:
+
+- [Download Full Trade Blotter CSV](outputs/trade_blotter.csv)
+- [Download In-Sample Trade Blotter CSV](outputs/trade_blotter_is.csv)
+- [Download Out-of-Sample Trade Blotter CSV](outputs/trade_blotter_oos.csv)
 
 # Discussion
 
